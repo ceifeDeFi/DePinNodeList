@@ -91,6 +91,6 @@ Twitter: [ceifeDeFi] (https://x.com/ceifeDeFi)
 
 ## If you like my content, i like a cup of Coffee:
 
-[![Solana](https://img.shields.io/badge/Solana-FzmUjTWD3D8LnT4J4vKXjsWt7fkfs7LSMjqfnsYWE7Gt-BE94C3.svg)](https://explorer.solana.com/address/4cB9B8c6F7eB3cC2B2B1A1A)
-[![Ethereum](https://img.shields.io/badge/Ethereum-0x5bbc45d7a94718a69c44c4c03834172a4d4ae5ee-4B9E2F.svg)](https://etherscan.io/address/0x742d35Cc6634C0532925a3b844Bc454e4438f44e)
+[![Solana](https://img.shields.io/badge/Solana-FzmUjTWD3D8LnT4J4vKXjsWt7fkfs7LSMjqfnsYWE7Gt-BE94C3.svg)](https://explorer.solana.com/address/FzmUjTWD3D8LnT4J4vKXjsWt7fkfs7LSMjqfnsYWE7Gt)
+[![Ethereum](https://img.shields.io/badge/Ethereum-0x5bbc45d7a94718a69c44c4c03834172a4d4ae5ee-4B9E2F.svg)](https://etherscan.io/address/0x5bbc45d7a94718a69c44c4c03834172a4d4ae5ee)
 
