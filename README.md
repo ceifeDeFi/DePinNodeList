@@ -10,8 +10,6 @@ To run a Node, the Chromium browser is required.
 | **RAM**      | 4 GB                    | 
 | **Disk**     | over 10 gb SSD          |
 
------
-
 ## List of Extension Node
 
 ### Grass Network Node
@@ -24,7 +22,7 @@ Backed: Polychain Capital, Delphi Ventures, Hack VC, Tribe Capital, Bitscale Cap
 
 Sign up: https://app.getgrass.io/register/?referralCode=x2WrNmdmnoG-YuX
 
-Install Node: [Chrome Extension Community Node] (https://chrome.google.com/webstore/detail/grass-extension/ilehaonighjijnmpnagapkhpcdbhclfg?hl=en&authuser=0) 
+Install Node: https://chrome.google.com/webstore/detail/grass-extension/ilehaonighjijnmpnagapkhpcdbhclfg?hl=en&authuser=0 
 
 <div id="grass-price">Loading...</div>
 <script>
@@ -34,8 +32,6 @@ Install Node: [Chrome Extension Community Node] (https://chrome.google.com/webst
             document.getElementById("grass-price").innerText = `$GRASS: $${data['grass-token'].usd}`;
         });
 </script>
-
------
 
 ### Gradient Network Sentry Node
 
@@ -47,9 +43,7 @@ Sign up: https://app.gradient.network/signup?code=WOL4FN
 
 Refferal Code: WOL4FN
 
-Install Sentry node: [Chrome Extension Sentry Node] (https://chromewebstore.google.com/detail/gradient-sentry-node/caacbgbklghmpodbdafajbgdnegacfmo)
-
------
+Install Sentry node: https://chromewebstore.google.com/detail/gradient-sentry-node/caacbgbklghmpodbdafajbgdnegacfmo
 
 ### Bless Network (Blockless Network)
 
@@ -58,8 +52,6 @@ Bless Network is the world’s first shared computer powered by everyday devices
 Sign up: https://bless.network/dashboard?ref=W0S7CH
 
 Install Bless node: https://chromewebstore.google.com/detail/bless/pljbjcehnhcnofmkdbjolghdcjnmekia
-
------
 
 ### Dawn Internet Validator
 
@@ -71,8 +63,6 @@ Reff code: rvug45m5
 
 Dawn Validator node extension: https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp
 
------
-
 ### Teneo Protocol
 
 Data Ownership Protocol with Community Nodes
@@ -83,8 +73,6 @@ Ref Code: iFPUv
 
 Install Comunity Node: https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm
 
------
-
 ### Oasis AI
 
 Oasis AI is an AI-powered platform designed to convert speech into high-quality written text, streamlining tasks like transcribing meetings, interviews, and podcasts. It leverages advanced speech recognition technology to provide accurate transcriptions, which users can easily edit and format. The platform supports multiple languages, allows for customizable vocabularies, and operates via a cloud-based interface, offering accessibility from anywhere without the need for installations.
@@ -92,8 +80,6 @@ Oasis AI is an AI-powered platform designed to convert speech into high-quality 
 Sign up: https://r.distribute.ai/ceifedefi
 
 Install Chrome extension: https://chromewebstore.google.com/detail/oasisai/knhbjeinoabfecakfppapfgdhcpnekmm
-
------
 
 ## Note:
 
