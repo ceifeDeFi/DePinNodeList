@@ -2,8 +2,6 @@
 
 To run a Node, the Chromium browser is required.
 
------
-
 ## Hardware requirements:
 
 | **Hardware** | **Minimum Requirement** |
