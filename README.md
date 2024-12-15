@@ -1,4 +1,4 @@
-# DePin Ecosystem Node List
+# DePin Ecosystem Node Lite List
 
 To run a Node, the Chromium browser is required.
 
