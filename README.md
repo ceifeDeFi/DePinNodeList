@@ -26,7 +26,7 @@ Backed: Polychain Capital, Delphi Ventures, Hack VC, Tribe Capital, Bitscale Cap
 
 Sign up: https://app.getgrass.io/register/?referralCode=x2WrNmdmnoG-YuX
 
-Install Node: [Chrome Extension Community Node] (https://chrome.google.com/webstore/detail/grass-extension/ilehaonighjijnmpnagapkhpcdbhclfg?hl=en&authuser=0) 
+Install Node: https://chrome.google.com/webstore/detail/grass-extension/ilehaonighjijnmpnagapkhpcdbhclfg?hl=en&authuser=0
 
 -----
 
@@ -40,7 +40,7 @@ Sign up: https://app.gradient.network/signup?code=WOL4FN
 
 Refferal Code: WOL4FN
 
-Install Sentry node: [Chrome Extension Sentry Node] (https://chromewebstore.google.com/detail/gradient-sentry-node/caacbgbklghmpodbdafajbgdnegacfmo)
+Install Sentry node: https://chromewebstore.google.com/detail/gradient-sentry-node/caacbgbklghmpodbdafajbgdnegacfmo
 
 -----
 
@@ -94,7 +94,7 @@ You can run all nodes in this list via a mobile browser that supports extensions
 
 ## CONTACT ME:
 
-Twitter: [ceifeDeFi] (https://x.com/ceifeDeFi)
+Twitter: https://x.com/ceifeDeFi
 
 ## If you like my content, i like a cup of Coffee:
 
